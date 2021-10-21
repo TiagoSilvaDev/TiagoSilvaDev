@@ -1,7 +1,7 @@
 ### Olá! Eu sou Tiago Silva👋
 ##
 
-- 🔭 Aberto a oportudades
+- 🔭 Aberto a oportunidades
 - 🌱 Estudando Front-end na Alura
 <div>
   <a href="https://github.com/TiagoSilvaDev">
